@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/VovaShulepa/Portfolio.git/static/css/main.bf538fe7.css",
-    "main.js": "/VovaShulepa/Portfolio.git/static/js/main.f3007cbe.js",
-    "static/media/HeroImage.jpg": "/VovaShulepa/Portfolio.git/static/media/HeroImage.366c7e2d132e5bb12f20.jpg",
-    "index.html": "/VovaShulepa/Portfolio.git/index.html",
-    "main.bf538fe7.css.map": "/VovaShulepa/Portfolio.git/static/css/main.bf538fe7.css.map",
-    "main.f3007cbe.js.map": "/VovaShulepa/Portfolio.git/static/js/main.f3007cbe.js.map"
+    "main.css": "/VovaShulepa/portfolio.git/static/css/main.bf538fe7.css",
+    "main.js": "/VovaShulepa/portfolio.git/static/js/main.579bc501.js",
+    "static/media/HeroImage.jpg": "/VovaShulepa/portfolio.git/static/media/HeroImage.366c7e2d132e5bb12f20.jpg",
+    "index.html": "/VovaShulepa/portfolio.git/index.html",
+    "main.bf538fe7.css.map": "/VovaShulepa/portfolio.git/static/css/main.bf538fe7.css.map",
+    "main.579bc501.js.map": "/VovaShulepa/portfolio.git/static/js/main.579bc501.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.f3007cbe.js"
+    "static/js/main.579bc501.js"
   ]
 }
