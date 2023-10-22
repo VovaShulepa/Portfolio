@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VovaShulepa/Portfolio.git/static/css/main.bf538fe7.css",
+    "main.js": "/VovaShulepa/Portfolio.git/static/js/main.87fdbbca.js",
+    "static/media/HeroImage.jpg": "/VovaShulepa/Portfolio.git/static/media/HeroImage.366c7e2d132e5bb12f20.jpg",
+    "index.html": "/VovaShulepa/Portfolio.git/index.html",
+    "main.bf538fe7.css.map": "/VovaShulepa/Portfolio.git/static/css/main.bf538fe7.css.map",
+    "main.87fdbbca.js.map": "/VovaShulepa/Portfolio.git/static/js/main.87fdbbca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.87fdbbca.js"
+  ]
+}
