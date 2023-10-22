@@ -181,7 +181,7 @@ export const experiences = [
     company: "GirlScript Summer of Code",
     date: "May 2023 - Present",
     desc: "Contributing to different open-source projects and learn from industry experts",
-    doc: "/src/images/goit.png",
+    doc: "../../images/goit.png",
   },
 ];
 
@@ -198,7 +198,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0G9lDilzs707nTQpWDXyFTx8wM9ZzkVELCxDk0QqVcRKoNzn60LY1tECc8nS7Pd6ROv4&usqp=CAU",
+    img: "../../images/odesa.png",
     school: "Odesa State Academy of Construction and Architecture ",
     date: "September 2011 - June 2016",
     city: "Odesa, Ukraine",
@@ -392,7 +392,7 @@ export const projects = [
     date: "Jan 2021",
     description:
       "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-    image: "/src/images/goit.png",
+    image: "../../images/odesa.png",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
     github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
