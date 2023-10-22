@@ -41,19 +41,19 @@ function App() {
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
       <Router>
-        {/* <Navbar /> */}
+        <Navbar />
         <Body>
           <HeroSection />
-          {/* <Wrapper> */}
-          {/* <Skills /> */}
-          {/* <Experience /> */}
-          {/* </Wrapper> */}
-          {/* <Projects openModal={openModal} setOpenModal={setOpenModal} /> */}
-          {/* <Wrapper> */}
-          <Education />
-          <Contact />
-          {/* </Wrapper> */}
-          {/* <Footer /> */}
+          <Wrapper>
+            <Skills />
+            <Experience />
+          </Wrapper>
+          <Projects openModal={openModal} setOpenModal={setOpenModal} />
+          <Wrapper>
+            <Education />
+            <Contact />
+          </Wrapper>
+          <Footer />
           {openModal.state && (
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           )}
