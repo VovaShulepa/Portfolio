@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://vovashulepa.github.io/Portfolio/",
+  "homepage": "https://github.com/VovaShulepa/Portfolio.git",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
