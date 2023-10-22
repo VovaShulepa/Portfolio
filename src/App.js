@@ -43,7 +43,7 @@ function App() {
       <Router>
         {/* <Navbar /> */}
         <Body>
-          {/* <HeroSection /> */}
+          <HeroSection />
           {/* <Wrapper> */}
           {/* <Skills /> */}
           {/* <Experience /> */}
